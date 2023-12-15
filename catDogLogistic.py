@@ -36,7 +36,7 @@ def load_images_from_directory(directory):
 
 
 # Setting path of the dataset
-dataset_path = "C:\\Users\\Lenovo\\Documents\\TrainDataPython\\images"
+dataset_path = "images"
 
 # Loading and processing dataset
 images, lables = load_images_from_directory(dataset_path)
